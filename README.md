@@ -2,13 +2,13 @@
   <h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Noah Aldhous</h1>
   <img src="./noah-color-1024.png" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/noah-aldhous-4436a3195/">
+    <a href="https://www.linkedin.com/in/noah-aldhous-4436a3195/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.noahaldhous.com/">
+    <a href="https://www.noahaldhous.com/" target="_blank">
       <img src="https://img.shields.io/badge/Website-ff60d4?style=for-the-badge" alt="Twitter Badge"/>
     </a>
-    <a href="https://twitter.com/theOldHaus">
+    <a href="https://twitter.com/theOldHaus" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>  
   </div>
