@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=NoahAldhous&style=flat-square&color=ff60d4" alt=""/>
 </div>
 
+---
+
+### :man_technologist: I am a Fullstack Developer based in London.
+
 - 👋 Hi, I’m @NoahAldhous
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
