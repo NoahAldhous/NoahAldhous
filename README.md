@@ -19,11 +19,42 @@
 
 ### :man_technologist: I am a Fullstack Developer based in London.
 
-- 👋 Hi, I’m @NoahAldhous
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- :telescope: Experienced with React and building full-stack Javascript applications with a focus on clean, accesible design.
+
+- :seedling: Currently learning new things like NextJs, MongoDB and Tailwind.
+
+- 🐉: In my free time, I play Dungeons & Dragons, read fantasy novels, and hike up mountains!
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Noah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noah-aldhous/)
+
+---
+
+### :hammer_and_wrench: Languages & Tools :
+
+<div align = "center">
+  <h3>EXPERIENCED WITH:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100"  height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="100"  height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="100"  height="100" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="100"  height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="100"  height="100"/>&nbsp;
+  
+  <h3>CURRENTLY LEARNING:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongDB" **alt="MongoDB" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="100" height="100"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typsescript" width="100" height="100"/>&nbsp;
+</div>
+  
+
 
 <!---
 NoahAldhous/NoahAldhous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
