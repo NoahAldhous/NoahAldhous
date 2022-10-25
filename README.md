@@ -22,11 +22,13 @@
 
 - :telescope: Experienced with React and building full-stack Javascript applications with a focus on clean, accesible design.
 
-- :seedling: Currently learning new things like NextJs, MongoDB and Tailwind.
+- :seedling: Currently learning new skills such as NextJs, MongoDB and Tailwind. Always taking an opportunity to try something new!
 
-- 🐉: In my free time, I play Dungeons & Dragons, read fantasy novels, and hike up mountains!
+- 🐉 In my free time, I play Dungeons & Dragons, read fantasy novels, and hike up mountains!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Noah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noah-aldhous/)
+- :mailbox: How to reach me: <a href = "mailto: naldhous@hotmail.co.uk" target = "_blank">Send an email</a> or connect on <a href = "https://www.linkedin.com/in/noah-aldhous/" target = "_blank"> LinkedIn</a>.
+
+- 🎨 Want to know more? Check out <a href = "https://www.noahaldhous.com/" target = "_blank">My Website</a>.
 
 ---
 
