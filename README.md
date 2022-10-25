@@ -34,7 +34,7 @@
 
 ### :hammer_and_wrench: Languages & Tools :
 
-<div align = "center">
+<div id = "skills" align = "center">
   <h3>EXPERIENCED WITH:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
@@ -56,6 +56,20 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typsescript" width="100" height="100"/>&nbsp;
 </div>
   
+---
+
+### :fire: My Stats :
+<div id = "stats" align = "center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoahAldhous&theme=omni)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahAldhous&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+
+### :writing_hand: My Projects :
+
 
 
 <!---
