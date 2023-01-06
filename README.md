@@ -22,7 +22,7 @@
 
 - :telescope: Experienced with React and building full-stack Javascript applications with a focus on clean, accesible design.
 
-- :seedling: Currently learning new skills such as NextJs, MongoDB and Tailwind. Always taking an opportunity to try something new!
+- :seedling: Currently learning new skills such as VueJs, MongoDB and Tailwind. Always taking an opportunity to try something new!
 
 - 🐉 In my free time, I play Dungeons & Dragons, read fantasy novels, and hike up mountains!
 
@@ -51,7 +51,7 @@
   
   <h3>CURRENTLY LEARNING:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongDB" **alt="MongoDB" width="100" height="100"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" **alt="VueJS" width="100" height="100"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="100" height="100"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typsescript" width="100" height="100"/>&nbsp;
 </div>
@@ -70,7 +70,11 @@
 
 ### :writing_hand: My Projects :
 
-
+<a href = "https://bill-calculator-ecru.vercel.app/" target = "_blank"> SPLIT THE BILL </a>
+<br/>
+<a href = "https://pokebrawlz.netlify.app/" target = "_blank"> POKEBRAWLZ </a>
+<br/>
+<a href = "https://visionary-klepon-ded6d3.netlify.app/" target = "_blank"> JUST MY TYPE </a>
 
 <!---
 NoahAldhous/NoahAldhous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
