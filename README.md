@@ -34,13 +34,15 @@
 
 ### :writing_hand: My Projects :
 
-<a href = "https://www.rubyparkerphotography.com/" target = "_blank"> RUBY PARKER PHOTOGRAPHY </a>
+<a href = "https://www.rubyparkerphotography.com/" target = "_blank"> RUBY PARKER PHOTOGRAPHY PORTFOLIO </a>
 <br/>
 <a href = "https://pokebrawlz.netlify.app/" target = "_blank"> POKEBRAWLZ </a>
 <br/>
 <a href = "https://visionary-klepon-ded6d3.netlify.app/" target = "_blank"> JUST MY TYPE </a>
 <br/>
 <a href = "https://bill-calculator-ecru.vercel.app/" target = "_blank"> SPLIT THE BILL </a>
+<br/>
+<a href = "https://storied-unicorn-46d331.netlify.app/" target = "_blank"> FULL-STACK TO-DO LIST APP </a>
 
 ---
 
