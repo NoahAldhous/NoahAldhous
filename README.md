@@ -32,6 +32,18 @@
 
 ---
 
+### :writing_hand: My Projects :
+
+<a href = "https://www.rubyparkerphotography.com/" target = "_blank"> RUBY PARKER PHOTOGRAPHY </a>
+<br/>
+<a href = "https://pokebrawlz.netlify.app/" target = "_blank"> POKEBRAWLZ </a>
+<br/>
+<a href = "https://visionary-klepon-ded6d3.netlify.app/" target = "_blank"> JUST MY TYPE </a>
+<br/>
+<a href = "https://bill-calculator-ecru.vercel.app/" target = "_blank"> SPLIT THE BILL </a>
+
+---
+
 ### :hammer_and_wrench: Languages & Tools :
 
 <div id = "skills" align = "center">
@@ -68,13 +80,7 @@
 
 ---
 
-### :writing_hand: My Projects :
 
-<a href = "https://bill-calculator-ecru.vercel.app/" target = "_blank"> SPLIT THE BILL </a>
-<br/>
-<a href = "https://pokebrawlz.netlify.app/" target = "_blank"> POKEBRAWLZ </a>
-<br/>
-<a href = "https://visionary-klepon-ded6d3.netlify.app/" target = "_blank"> JUST MY TYPE </a>
 
 <!---
 NoahAldhous/NoahAldhous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
