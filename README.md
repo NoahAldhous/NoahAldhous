@@ -34,7 +34,7 @@
 
 ### :writing_hand: My Projects :
 
-<a href = "https://www.rubyparkerphotography.com/" target = "_blank"> RUBY PARKER PHOTOGRAPHY PORTFOLIO </a>
+<a href = "https://www.rubyparkerphotography.com/" target = "_blank"> RU PARKER PHOTOGRAPHY PORTFOLIO </a>
 <br/>
 <a href = "https://pokebrawlz.netlify.app/" target = "_blank"> POKEBRAWLZ </a>
 <br/>
